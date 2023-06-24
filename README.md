@@ -13,9 +13,12 @@ In this project, several models are used to trained and tested including:
 * VGG16
 
 ## STRUCTURE
-* Folder 'ai': Contain code of notebook to train and test the models
-* Folder 'app': Contains the code of building the application utilizing a model for classifying seam puckering job
-* Folder 'sample_data': Containing some sample images for each seam puckering level for testing
+* Folder **[ai](https://github.com/ai-4-ia/seam_puckering_classification/tree/main/ai)**: Contain code of notebook to train and test the models
+* Folder **[app](https://github.com/ai-4-ia/seam_puckering_classification/tree/main/app)**: Contains the code of building the application utilizing a model for classifying seam puckering job
+* Folder **[sample_data](https://github.com/ai-4-ia/seam_puckering_classification/tree/main/sample_data)**: Containing some sample images for each seam puckering level for testing
 
 ## AN EXAMPLE OF SOME LABELED SAMPLE IMAGES
 ![Seam pucker sample images list](./sample_data/seam_image_list.png)
+
+## TO RUN APP
+Please refer to file **_requirements.txt_** for configuring suitable library to deploy or run the app locally
