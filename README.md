@@ -2,6 +2,7 @@
 
 ## IDEA
 This project is created to serve the purpose of classifying the puckering level based on ISO standard as below:
+
 ![Seam puckering levels](./sample_data/seam_puckering_level.jpg)
 
 In this project, several models are used to trained and tested including:
