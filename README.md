@@ -20,5 +20,5 @@ In this project, several models are used to trained and tested including:
 ## AN EXAMPLE OF SOME LABELED SAMPLE IMAGES
 ![Seam pucker sample images list](./sample_data/seam_image_list.png)
 
-## TO RUN APP
+## REQUIREMENT FOR RUNNING APP
 Please refer to file **_requirements.txt_** for configuring suitable library to deploy or run the app locally
