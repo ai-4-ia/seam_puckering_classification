@@ -22,3 +22,6 @@ In this project, several models are used to trained and tested including:
 
 ## REQUIREMENT FOR RUNNING APP
 Please refer to file **_requirements.txt_** for configuring suitable library to deploy or run the app locally
+
+## APP DEMO
+Please access the app demo **[here](http://product.ai4ia.cc/)**
